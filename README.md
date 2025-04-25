@@ -30,11 +30,11 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sondt1337&show_icons=true&theme=radical&count_private=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sondt99&show_icons=true&theme=radical&count_private=true" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sondt1337&layout=compact&theme=radical&hide=html,css,scss" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sondt99&layout=compact&theme=radical&hide=html,css,scss" />
 </p>
 
 ---
