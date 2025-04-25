@@ -2,9 +2,9 @@
   Hi there, I'm Spid3r! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 </h1>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://profile-counter.glitch.me/spid3r1337/count.svg" />
-</p>
+</p>-->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=CTF+Player+%7C+Security+Researcher;Reversing+%7C+Pwnable+%7C+Forensics;Learning+and+Building+Cool+Projects!" />
