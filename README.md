@@ -21,13 +21,6 @@
 
 ---
 
-## 🚀 Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,linux,bash,docker,raspberrypi,arduino,git" />
-</p>
-
----
-
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sondt99&show_icons=true&theme=radical&count_private=true" height="180px" />
@@ -35,13 +28,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sondt99&layout=compact&theme=radical&hide=html,css,scss" />
-</p>
-
----
-
-## 📬 Contact Me  
-<p align="center">
-  <a href="https://t.me/krixov">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
 </p>
