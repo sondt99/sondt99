@@ -23,9 +23,11 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sondt99&show_icons=true&theme=radical&count_private=true" height="180px" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sondt99&theme=dark&hide_border=false" height="180px" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sondt99&layout=compact&theme=radical&hide=html,css,scss" />
 </p>
+<!-- https://github-readme-stats.vercel.app/api?username=sondt99&show_icons=true&theme=radical&count_private=true
+ -->
