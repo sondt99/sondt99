@@ -4,11 +4,11 @@
 
 ---
 
-## 🕷️ About Me  
-- 🎓 Currently pursuing a degree in **Computer Engineering** at the **Hanoi University of Science & Technology (HUST)**.  
-- 🔬 Working as a **Security Researcher** at **Vingroup** and actively contributing to **BKSEC**.  
-- 🚩 Passionate about **Reverse Engineering**, **Binary Exploitation**, and **Digital Forensics**.   
-- 🌱 Continuously exploring and learning new concepts in **Cybersecurity** and **Offensive Security**.  
+## About Me  
+- Bachelor of **Computer Engineering** graduate from **Hanoi University of Science and Technology (HUST)**.
+- Working as a **Security Researcher** at **Vingroup** and actively contributing to **BKSEC**.  
+- Passionate about **Reverse Engineering**, **Binary Exploitation**, and **Digital Forensics**.   
+- Continuously exploring and learning new concepts in **Cybersecurity** and **Offensive Security**.  
 
 ---
 
