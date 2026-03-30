@@ -13,12 +13,8 @@
 ---
 
 ## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sondt99&theme=dark&hide_border=false" height="180px" />
-</p>
-<!-- https://github-readme-stats.vercel.app/api?username=sondt99&show_icons=true&theme=radical&count_private=true
- -->
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sondt99&theme=nord_bright)
 ---
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sondt99&theme=tokyo-night)
