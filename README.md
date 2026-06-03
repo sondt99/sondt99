@@ -12,11 +12,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sondt99&theme=nord_bright)
----
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sondt99&theme=tokyo-night)
 
 ---
