@@ -11,7 +11,12 @@
 - Continuously exploring and learning new concepts in **Cybersecurity** and **Offensive Security**.  
 
 ---
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sondt99&theme=tokyo-night" alt="GitHub Activity Graph" />
+</p>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sondt99&theme=tokyo-night)
-
----
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=sondt99&theme=highcontrast" alt="GitHub Streak" />
+  </a>
+</p>
